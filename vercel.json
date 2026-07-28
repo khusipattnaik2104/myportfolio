@@ -1,6 +1,3 @@
 {
-  "target": "production",
-  "deployment": {
-    "url": "https://myportfolio-n16h-i6vviygz0-khusipattnaik2104s-projects.vercel.app"
-  }
+  "target": "production"
 }
